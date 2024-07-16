@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient( to right,  #2E3192,black );
+}
+
+
+
+.maincontent{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+
+
+
+
+.th,td,tr{
+    border:1px solid white;
+    
+}
